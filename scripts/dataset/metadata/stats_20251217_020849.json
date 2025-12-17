@@ -1,0 +1,12 @@
+{
+  "project": "us-airports-aerial-images",
+  "source": "USDA NAIP",
+  "license": "Public Domain",
+  "total_airports": 5,
+  "successful_airports": 5,
+  "total_images": 45,
+  "image_size_meters": 300,
+  "image_pixels": "360x360",
+  "resolution": "~0.83m per pixel",
+  "timestamp": "20251217_020849"
+}
