@@ -128,11 +128,12 @@ dataset/
 ## 📝 Citation
 
 ```bibtex
-@article{gowrammagari2024usats,
+@misc{gowrammagari2025usats,
   title={US-ATS: US Airport Taxiway Segmentation Dataset},
   author={Gowrammagari, Balaji},
-  journal={IEEE Data Descriptions},
-  year={2024}
+  year={2025},
+  howpublished={GitHub},
+  url={https://github.com/gbalaji27/US-ATS-Dataset}
 }
 ```
 
