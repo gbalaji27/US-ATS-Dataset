@@ -46,7 +46,7 @@ work and will be released after publication of the accompanying paper
 - Sample images: CC BY 4.0 (source imagery: USDA NAIP, public domain)
 - Full dataset: to be released under CC BY 4.0 upon publication
 
-For research inquiries, contact the author.
+For research inquiries, contact the author at gbalaji2705@gmail.com
 
 ## 🚀 Quick Start
 
