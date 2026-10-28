@@ -35,13 +35,18 @@ US-ATS-Dataset/
 └── requirements.txt
 ```
 
-## 📥 Dataset Access
+## Dataset availability
 
-### Sample Images
-This repository includes sample images in `data/images/`.
+This repository contains sample images, class definitions, and the
+collection script. The full annotated dataset is part of ongoing thesis
+work and will be released after publication of the accompanying paper
+(expected mid-2027).
 
-### Full Dataset
-Contact: gbalaji2705@gmail.com
+- Code: MIT
+- Sample images: CC BY 4.0 (source imagery: USDA NAIP, public domain)
+- Full dataset: to be released under CC BY 4.0 upon publication
+
+For research inquiries, contact the author.
 
 ## 🚀 Quick Start
 
